@@ -14,6 +14,6 @@ class CharacterFrequency {
                 count++;
             }
         }
-        System.out.print("'" + toFind + "' appears " + count + " time(s)");
+        System.out.print("'" + toFind + "' appears "+ count + " time(s)");
     }
 }
